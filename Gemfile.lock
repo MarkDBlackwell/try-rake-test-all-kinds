@@ -1,0 +1,20 @@
+PATH
+  remote: C:/Mark/develop/GitHub/MarkDBlackwell/rake
+  specs:
+    rake (11.2.2)
+
+GEM
+  specs:
+    power_assert (0.2.2)
+    test-unit (3.2.1)
+      power_assert
+
+PLATFORMS
+  x86-mingw32
+
+DEPENDENCIES
+  rake!
+  test-unit
+
+BUNDLED WITH
+   1.12.5

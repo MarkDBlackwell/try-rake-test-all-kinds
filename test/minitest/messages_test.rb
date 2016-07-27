@@ -3,5 +3,7 @@
 require 'minitest/autorun'
 require 'minitest/pride'
 
-class ::TryRakeTestAllKinds < ::Minitest::Test
+module ::TryRakeTestAllKinds; end
+
+class ::TryRakeTestAllKinds::TryMinitest < ::Minitest::Test
 end
